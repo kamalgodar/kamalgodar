@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Kamal Godar.</h2>
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://twitter.com/kamalgodar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamalgodar_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamalgodar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalgodar" height="30" width="40" /></a>
+<a href="https://fb.com/itskamalgodar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itskamalgodar" height="30" width="40" /></a>
+<a href="https://instagram.com/kamalgodar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamalgodar" height="30" width="40" /></a>
+</p>
 
 <!--
 **kamalgodar/kamalgodar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
